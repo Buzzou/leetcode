@@ -49,32 +49,8 @@ cmake_ninja_workdir = /Users/liyeukhou/CLionProjects/leetcode/cmake-build-debug/
 
 build cmake_object_order_depends_target_leetcode: phony || .
 
-build CMakeFiles/leetcode.dir/14.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/14.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = CMakeFiles/leetcode.dir/14.cpp.o.d
-  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/leetcode.dir
-  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir
-
-build CMakeFiles/leetcode.dir/151.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/151.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = CMakeFiles/leetcode.dir/151.cpp.o.d
-  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/leetcode.dir
-  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir
-
-build CMakeFiles/leetcode.dir/6.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/6.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = CMakeFiles/leetcode.dir/6.cpp.o.d
-  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/leetcode.dir
-  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir
-
-build CMakeFiles/leetcode.dir/28.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/28.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = CMakeFiles/leetcode.dir/28.cpp.o.d
-  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/leetcode.dir
-  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir
-
-build CMakeFiles/leetcode.dir/68.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/68.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = CMakeFiles/leetcode.dir/68.cpp.o.d
+build CMakeFiles/leetcode.dir/3.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/3.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/3.cpp.o.d
   FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode.dir
@@ -87,7 +63,7 @@ build CMakeFiles/leetcode.dir/68.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /
 #############################################
 # Link the executable leetcode
 
-build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/14.cpp.o CMakeFiles/leetcode.dir/151.cpp.o CMakeFiles/leetcode.dir/6.cpp.o CMakeFiles/leetcode.dir/28.cpp.o CMakeFiles/leetcode.dir/68.cpp.o
+build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/3.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7
   OBJECT_DIR = CMakeFiles/leetcode.dir
   POST_BUILD = :
