@@ -10,13 +10,19 @@ add_executable(leetcode
         "Divide & Conquer/148.cpp"
         "Divide & Conquer/427.cpp"
         "Divide & Conquer/23.cpp"
-        "Kadane's Algorithm/53.cpp"
+        "Kadane's Algorithm/53 DP.cpp"
         "Kadane's Algorithm/918.cpp"
         "Binary Search/35.cpp"
         "Binary Search/74.cpp"
         "Binary Search/162.cpp"
         "Binary Search/33.cpp"
-        "Binary Search/34.cpp"
+        "Binary Search/34 STL.cpp"
         "Binary Search/153.cpp"
         "Binary Search/4.cpp"
+        "Kadane's Algorithm/53.cpp"
+        "Binary Search/34.cpp"
+        Heap/215.cpp
+        Heap/502.cpp
+        Heap/373.cpp
+        Heap/295.cpp
 )

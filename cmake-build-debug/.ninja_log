@@ -1,7 +1,7 @@
 # ninja log v6
 9	1154	1739993332813326055	CMakeFiles/leetcode.dir/26.cpp.o	cc285bfadb3fcc4e
 10	1369	1739991281063777314	CMakeFiles/leetcode.dir/27.cpp.o	3b43ec0453a20722
-3	143	1741109947311133408	build.ninja	ef3bcaca0f2f6d19
+3	143	1741204228024879698	build.ninja	ef3bcaca0f2f6d19
 11	1481	1740051876149474854	CMakeFiles/leetcode.dir/121.cpp.o	69406deafbdce2ff
 4	1456	1740655235596103607	CMakeFiles/leetcode.dir/Stack/20v2.cpp.o	f424b73691ee10e4
 11	1311	1740310245079491845	CMakeFiles/leetcode.dir/Array/68.cpp.o	8bb5ffd2bbf5793e

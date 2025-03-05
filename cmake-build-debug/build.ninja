@@ -85,8 +85,8 @@ build CMakeFiles/leetcode.dir/Divide_&_Conquer/23.cpp.o: CXX_COMPILER__leetcode_
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = "CMakeFiles/leetcode.dir/Divide_&_Conquer"
 
-build CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Kadane's$ Algorithm/53.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = "CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o.d"
+build CMakeFiles/leetcode.dir/Kadane's_Algorithm/53_DP.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Kadane's$ Algorithm/53$ DP.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = "CMakeFiles/leetcode.dir/Kadane's_Algorithm/53_DP.cpp.o.d"
   FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = "CMakeFiles/leetcode.dir/Kadane's_Algorithm"
@@ -121,8 +121,8 @@ build CMakeFiles/leetcode.dir/Binary_Search/33.cpp.o: CXX_COMPILER__leetcode_uns
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Binary_Search
 
-build CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Binary$ Search/34.cpp || cmake_object_order_depends_target_leetcode
-  DEP_FILE = CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o.d
+build CMakeFiles/leetcode.dir/Binary_Search/34_STL.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Binary$ Search/34$ STL.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Binary_Search/34_STL.cpp.o.d
   FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Binary_Search
@@ -139,6 +139,42 @@ build CMakeFiles/leetcode.dir/Binary_Search/4.cpp.o: CXX_COMPILER__leetcode_unsc
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Binary_Search
 
+build CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Kadane's$ Algorithm/53.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = "CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o.d"
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = "CMakeFiles/leetcode.dir/Kadane's_Algorithm"
+
+build CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Binary$ Search/34.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Binary_Search
+
+build CMakeFiles/leetcode.dir/Heap/215.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Heap/215.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Heap/215.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Heap
+
+build CMakeFiles/leetcode.dir/Heap/502.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Heap/502.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Heap/502.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Heap
+
+build CMakeFiles/leetcode.dir/Heap/373.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Heap/373.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Heap/373.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Heap
+
+build CMakeFiles/leetcode.dir/Heap/295.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Heap/295.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Heap/295.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Heap
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leetcode
@@ -147,7 +183,7 @@ build CMakeFiles/leetcode.dir/Binary_Search/4.cpp.o: CXX_COMPILER__leetcode_unsc
 #############################################
 # Link the executable leetcode
 
-build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/Backtracking/22.cpp.o CMakeFiles/leetcode.dir/Backtracking/79.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/108.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/148.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/427.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/23.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/918.cpp.o CMakeFiles/leetcode.dir/Binary_Search/35.cpp.o CMakeFiles/leetcode.dir/Binary_Search/74.cpp.o CMakeFiles/leetcode.dir/Binary_Search/162.cpp.o CMakeFiles/leetcode.dir/Binary_Search/33.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o CMakeFiles/leetcode.dir/Binary_Search/153.cpp.o CMakeFiles/leetcode.dir/Binary_Search/4.cpp.o
+build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/Backtracking/22.cpp.o CMakeFiles/leetcode.dir/Backtracking/79.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/108.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/148.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/427.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/23.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53_DP.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/918.cpp.o CMakeFiles/leetcode.dir/Binary_Search/35.cpp.o CMakeFiles/leetcode.dir/Binary_Search/74.cpp.o CMakeFiles/leetcode.dir/Binary_Search/162.cpp.o CMakeFiles/leetcode.dir/Binary_Search/33.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34_STL.cpp.o CMakeFiles/leetcode.dir/Binary_Search/153.cpp.o CMakeFiles/leetcode.dir/Binary_Search/4.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o CMakeFiles/leetcode.dir/Heap/215.cpp.o CMakeFiles/leetcode.dir/Heap/502.cpp.o CMakeFiles/leetcode.dir/Heap/373.cpp.o CMakeFiles/leetcode.dir/Heap/295.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7
   OBJECT_DIR = CMakeFiles/leetcode.dir
   POST_BUILD = :
