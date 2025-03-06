@@ -175,6 +175,96 @@ build CMakeFiles/leetcode.dir/Heap/295.cpp.o: CXX_COMPILER__leetcode_unscanned_D
   OBJECT_DIR = CMakeFiles/leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Heap
 
+build CMakeFiles/leetcode.dir/Bit_Manipulation/67.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/67.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/67.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/190.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/190.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/190.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/191v2.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/191v2.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/191v2.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/136v2.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/136v2.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/136v2.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/137.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/137.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/137.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/201.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/201.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/201.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Math/9.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Math/9.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Math/9.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Math
+
+build CMakeFiles/leetcode.dir/Math/66.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Math/66.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Math/66.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Math
+
+build CMakeFiles/leetcode.dir/Math/172.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Math/172.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Math/172.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Math
+
+build CMakeFiles/leetcode.dir/Math/69.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Math/69.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Math/69.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Math
+
+build CMakeFiles/leetcode.dir/Math/50.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Math/50.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Math/50.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Math
+
+build CMakeFiles/leetcode.dir/Math/149.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Math/149.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Math/149.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Math
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/190v2.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/190v2.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/190v2.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/191.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/191.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/191.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
+build CMakeFiles/leetcode.dir/Bit_Manipulation/136.cpp.o: CXX_COMPILER__leetcode_unscanned_Debug /Users/liyeukhou/CLionProjects/leetcode/Bit$ Manipulation/136.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles/leetcode.dir/Bit_Manipulation/136.cpp.o.d
+  FLAGS = -g -std=gnu++2b -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode.dir/Bit_Manipulation
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leetcode
@@ -183,7 +273,7 @@ build CMakeFiles/leetcode.dir/Heap/295.cpp.o: CXX_COMPILER__leetcode_unscanned_D
 #############################################
 # Link the executable leetcode
 
-build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/Backtracking/22.cpp.o CMakeFiles/leetcode.dir/Backtracking/79.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/108.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/148.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/427.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/23.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53_DP.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/918.cpp.o CMakeFiles/leetcode.dir/Binary_Search/35.cpp.o CMakeFiles/leetcode.dir/Binary_Search/74.cpp.o CMakeFiles/leetcode.dir/Binary_Search/162.cpp.o CMakeFiles/leetcode.dir/Binary_Search/33.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34_STL.cpp.o CMakeFiles/leetcode.dir/Binary_Search/153.cpp.o CMakeFiles/leetcode.dir/Binary_Search/4.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o CMakeFiles/leetcode.dir/Heap/215.cpp.o CMakeFiles/leetcode.dir/Heap/502.cpp.o CMakeFiles/leetcode.dir/Heap/373.cpp.o CMakeFiles/leetcode.dir/Heap/295.cpp.o
+build leetcode: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/Backtracking/22.cpp.o CMakeFiles/leetcode.dir/Backtracking/79.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/108.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/148.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/427.cpp.o CMakeFiles/leetcode.dir/Divide_&_Conquer/23.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53_DP.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/918.cpp.o CMakeFiles/leetcode.dir/Binary_Search/35.cpp.o CMakeFiles/leetcode.dir/Binary_Search/74.cpp.o CMakeFiles/leetcode.dir/Binary_Search/162.cpp.o CMakeFiles/leetcode.dir/Binary_Search/33.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34_STL.cpp.o CMakeFiles/leetcode.dir/Binary_Search/153.cpp.o CMakeFiles/leetcode.dir/Binary_Search/4.cpp.o CMakeFiles/leetcode.dir/Kadane's_Algorithm/53.cpp.o CMakeFiles/leetcode.dir/Binary_Search/34.cpp.o CMakeFiles/leetcode.dir/Heap/215.cpp.o CMakeFiles/leetcode.dir/Heap/502.cpp.o CMakeFiles/leetcode.dir/Heap/373.cpp.o CMakeFiles/leetcode.dir/Heap/295.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/67.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/190.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/191v2.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/136v2.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/137.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/201.cpp.o CMakeFiles/leetcode.dir/Math/9.cpp.o CMakeFiles/leetcode.dir/Math/66.cpp.o CMakeFiles/leetcode.dir/Math/172.cpp.o CMakeFiles/leetcode.dir/Math/69.cpp.o CMakeFiles/leetcode.dir/Math/50.cpp.o CMakeFiles/leetcode.dir/Math/149.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/190v2.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/191.cpp.o CMakeFiles/leetcode.dir/Bit_Manipulation/136.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.7
   OBJECT_DIR = CMakeFiles/leetcode.dir
   POST_BUILD = :

@@ -16,7 +16,7 @@ struct TreeNode
 class Solution
 {
 public:
-    int sumNumbers(TreeNode* root, short currentSum = 0)
+    int sumNumbers(TreeNode* root, int currentSum = 0)
     {
         if (!root) return 0;
 

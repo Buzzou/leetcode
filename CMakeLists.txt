@@ -25,4 +25,19 @@ add_executable(leetcode
         Heap/502.cpp
         Heap/373.cpp
         Heap/295.cpp
+        "Bit Manipulation/67.cpp"
+        "Bit Manipulation/190.cpp"
+        "Bit Manipulation/191v2.cpp"
+        "Bit Manipulation/136v2.cpp"
+        "Bit Manipulation/137.cpp"
+        "Bit Manipulation/201.cpp"
+        Math/9.cpp
+        Math/66.cpp
+        Math/172.cpp
+        Math/69.cpp
+        Math/50.cpp
+        Math/149.cpp
+        "Bit Manipulation/190v2.cpp"
+        "Bit Manipulation/191.cpp"
+        "Bit Manipulation/136.cpp"
 )
